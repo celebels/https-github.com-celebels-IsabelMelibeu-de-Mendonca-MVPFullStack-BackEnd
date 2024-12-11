@@ -9,7 +9,7 @@ Usando AI, o sistema pequisa usuários preferencias baseados em prompts e genero
 Backend: Banco de dados com acesso a APIS de Usuário, Livros favoritos (liked books- bridge table), Livros rejeitados (dropped book - bridge table) e livros
 
 Instalacoes
-Cliffhanger V1.0 back end necessita de Python Flask, Flask Restful, Flask Alchemy, Python.
+Cliffhanger V1.0 back end necessita de Python Flask, Flask Restful, Flask SQLAlchemy, Python.
 
 Ambiente Local
 Para utilizar Cliffhanger V1.0 backend, recomenda-se visitar usando MVP frontend, pois utiliza-o para mostrar como a landing page do usuário seria (Login in com listas ou pequisa de livros)
